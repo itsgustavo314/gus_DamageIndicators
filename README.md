@@ -7,5 +7,6 @@ The server sends the metadata to the players, this plugin simply modifies this d
 Please don't set the life below 0.1 because the player may then be invisible because other clients will consider it dead because the player with 0.0 hp is dead.
 I'm done.
 The plugin is used by one server and the owner praised it because everything works fine.
+The plugin was tested only on 1.16 and it doesn't work on older/newer versions, if you have a problem with it, write to me on discord: itsgustavo#6720
 
 Goodbye labymod.
