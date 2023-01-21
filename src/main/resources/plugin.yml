@@ -1,0 +1,9 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: me.itsgustavo.damageindicators.DamagePlugin
+author: itsgustavo
+api-version: 1.16
+description: ${project.description}
+depend:
+  - ProtocolLib
+website: itsgustavo#6720
