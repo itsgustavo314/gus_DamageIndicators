@@ -1,6 +1,6 @@
 # gus_DamageIndicators
 Plugin <b>blocks</b> the use of mods that reveal the <b>player's health</b>.<br>
-You need <b>ProtocolLib</b> to use.
+You need <b>ProtocolLib</b> to use.<br>
 Only player hp is replaced, if you want to hide mob hp as well please change <b>HumanEntity</b> to <b>LivingEntity</b> in code.<br>
 
 How does the plugin work?<br>
